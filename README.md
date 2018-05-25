@@ -16,5 +16,5 @@ This app search and display ditails on tv show.
 ` Angular 4.0 `
 
 
-![logo](https://i.imgur.com/eJf9NOS.jpg)
+![logo](https://i.imgur.com/vY0FZoc.jpg)
 ![logo](https://i.imgur.com/MNXojBB.jpg)
